@@ -1,16 +1,75 @@
-## Hi there 👋
+````md
+<div align="center">
 
-<!--
-**roysweb-coder/roysweb-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=35&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=✨+Roys+Wanimbo;💻+Fullstack+Developer;🌍+From+Papua+Indonesia;🚀+Building+Future+Technology" />
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://i.imgur.com/8Km9tLL.png" width="220" style="border-radius:50%;" />
+
+# 👑 Roys Wanimbo
+
+### 🌍 Papua Premium Developer  
+### 💻 Fullstack Web Developer  
+### 🚀 Laravel • React • Firebase • UI/UX
+
+---
+
+<img src="https://github-profile-trophy.vercel.app/?username=roysweb-coder&theme=algolia&no-frame=true&row=1&column=6" />
+
+---
+
+## 🧠 About Me
+
+```yaml
+name: Roys Wanimbo
+location: Papua, Indonesia
+role: Fullstack Developer
+focus: Laravel & Modern Website
+dream: Build Big Startup from Papua
+````
+
+---
+
+## ⚡ Skills
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,php,laravel,mysql,firebase,react,github,vscode" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=roysweb-coder&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=roysweb-coder&theme=tokyonight&hide_border=true"/>
+
+---
+
+## 🌐 Connect With Me
+
+<a href="https://github.com/roysweb-coder">
+<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github">
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp">
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram">
+</a>
+
+---
+
+## 🐍 Contribution Snake
+
+![snake gif](https://github.com/roysweb-coder/roysweb-coder/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+✨ *“Pejuang Developer dari Papua Menuju Dunia Digital”* ✨
+
+</div>
+```
