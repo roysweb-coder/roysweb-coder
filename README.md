@@ -40,7 +40,7 @@
 
 ---
 
-## 🐍 Snake Contribution
+## 🐍 Mentor Ku
 
 <p align="center">
 <img src="https://avatars.githubusercontent.com/u/45115034?v=4-contribution-grid-snake.svg" />
