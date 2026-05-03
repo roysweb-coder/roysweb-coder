@@ -1,8 +1,12 @@
 
 # 👋 Halo, Saya Roys Wanimbo
 
-
-<p align="center"> <img src="https://avatars.githubusercontent.com/u/224690157?v=4" width="180" style="border-radius:50%; border:6px solid #00F7FF; box-shadow:0 0 30px #00F7FF,0 0 60px #0099ff;" /> </p> <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Fullstack+Developer+from+Papua;Laravel+%7C+React+%7C+JavaScript;Building+Future+With+Code+%F0%9F%9A%80;From+Papua+To+The+World" /> </p>
+```md id="g7jv0p"
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/224690157?v=4" width="220" height="220">
+</p>
+```
+font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Fullstack+Developer+from+Papua;Laravel+%7C+React+%7C+JavaScript;Building+Future+With+Code+%F0%9F%9A%80;From+Papua+To+The+World" /> </p>
 
 
 <p align="center">
