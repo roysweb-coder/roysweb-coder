@@ -8,10 +8,10 @@
 
 ## 🚀 Tentang Saya
 
-💻 Fullstack Developer dari Papua, Indonesia
-🌱 Sedang belajar dan berkembang setiap hari
-🔥 Fokus membuat website modern & sistem sekolah
-🎯 Target menjadi developer profesional dunia
+💻 Fullstack Developer dari Papua, Indonesia <br>
+🌱 Sedang belajar dan berkembang setiap hari<br>
+🔥 Fokus membuat website modern & sistem sekolah<br>
+🎯 Target menjadi developer profesional dunia<br>
 
 ---
 
@@ -43,7 +43,7 @@
 ## 🐍 Snake Contribution
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+<img src="https://avatars.githubusercontent.com/u/45115034?v=4-contribution-grid-snake.svg" />
 </p>
 
 ---
